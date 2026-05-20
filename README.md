@@ -14,4 +14,4 @@ on AWS and Kubernetes at enterprise scale.
 | **Observability** | Datadog · ELK Stack · OpenTelemetry |
 | **Languages** | Python · Bash · PowerShell · Groovy |
 
-[LinkedIn](https://www.linkedin.com/in/andre-perrot-174b4b31)
+[LinkedIn](https://www.linkedin.com/in/andré-perrot-174b4b31)
