@@ -19,7 +19,7 @@ I build and operate delivery platforms, infrastructure automation, and internal 
 
 AI-assisted GitHub PR review harness on AWS Bedrock.
 
-Routes GitHub App events through API Gateway, SQS, Lambda, and Bedrock AgentCore, then updates a single idempotent PR comment with review findings, CI diagnosis, Terraform context, and policy checks.
+Routes GitHub App events through API Gateway, SQS, Lambda, and Bedrock AgentCore, then updates a single idempotent PR comment with Claude review synthesis and deterministic security scan findings.
 
 **Stack:** Python · AWS Bedrock · AgentCore · LangGraph · Lambda · SQS · API Gateway · CDK · GitHub Apps
 
