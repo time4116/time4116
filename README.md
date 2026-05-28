@@ -3,14 +3,14 @@
 **Staff Platform Engineer**  
 AWS · Kubernetes · Agentic Developer Tooling
 
-I build and operate autonomous delivery platforms, infrastructure automation, and self-healing systems that help engineering teams ship without friction.
+I build the systems and tooling that let engineering teams ship without waiting on DevOps.
 
 ## Selected proof
 
-- **Autonomous Engineering:** Built an AI-powered PR review bot (AWS Bedrock + AgentCore) that automates Jira criteria validation and Terraform security scans, consolidating manual review cycles into a single live feedback loop.
-- **Infrastructure-as-Code Agents:** Developed a LangGraph agent that generates production-standard Terraform code by learning from existing pipelines, ensuring 100% convention adherence for new projects.
+- **PR Review Automation:** Built an AI-powered PR review bot (AWS Bedrock + AgentCore) that automates Jira criteria validation and Terraform security scans, consolidating manual review cycles into a single live feedback loop.
+- **Infrastructure-as-Code Agents:** Developed a LangGraph agent that generates production-standard Terraform code by learning from existing pipelines, ensuring convention adherence for new projects.
 - **Self-Service Migration:** Engineered a Claude Code CLI plugin for autonomous CI/CD bootstrapping, enabling teams to scaffold and migrate repos without DevOps intervention.
-- **Cluster Modernization:** Led a zero-downtime KOPS-to-EKS migration for multiple production clusters, including a VPC redesign to eliminate legacy CIDR collision risks.
+- **Cluster Modernization:** Led a zero-downtime KOPS-to-EKS migration across multiple production clusters, including a VPC redesign to eliminate legacy CIDR collision risks.
 - **Cost Optimization:** Eliminated ~365 agent-days of idle compute annually by architecting an on-demand CI build agent manager, significantly reducing overhead while maintaining developer speed.
 
 ## Projects
