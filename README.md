@@ -1,9 +1,9 @@
 # André Perrot
 
-**Staff Platform Engineer**  
-AWS · Kubernetes · Agentic Developer Tooling
+**Platform Engineering Leader**  
+AWS · Kubernetes · DevOps Automation · AI Tooling
 
-I build the systems and tooling that let engineering teams ship without waiting on DevOps.
+I lead and build the systems and tooling that let engineering teams ship without waiting on DevOps.
 
 ## Selected proof
 
