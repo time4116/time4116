@@ -1,9 +1,8 @@
 # André Perrot
 
-**Platform Engineering Leader**  
-AWS · Kubernetes · DevOps Automation · AI Tooling
+**Platform Engineering Leader | Hands-On IC | AWS | Kubernetes | DevOps**
 
-I lead and build the systems and tooling that let engineering teams ship without waiting on DevOps.
+I build the systems and tooling that let engineering teams ship without waiting on DevOps.
 
 ## Selected proof
 
