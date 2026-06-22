@@ -18,7 +18,7 @@ I build the systems and tooling that let engineering teams ship without waiting 
 
 AI infrastructure controller that turns freeform GitHub issues into validated Terraform/Terragrunt pull requests.
 
-Uses AWS Bedrock and LangGraph to infer infrastructure intent, scan target repo conventions, generate IaC, run static and runtime validation, apply bounded self-repair loops, and open reviewable GitOps PRs without directly applying infrastructure.
+Uses AWS Bedrock and LangGraph to infer infrastructure intent, scan target repo conventions, generate IaC, and gate on static review plus a real backend-free `terragrunt plan` with bounded self-repair loops. Each PR ships its own generated GitHub Actions workflows that plan on the PR and apply the Terraform/Terragrunt on merge, delivering full GitOps automation without the controller ever applying infrastructure itself.
 
 **Stack:** Python · AWS Bedrock · LangGraph · Terraform · Terragrunt · GitHub Actions · AWS OIDC
 
